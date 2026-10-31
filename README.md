@@ -1,5 +1,7 @@
 # LIVE LINK - https://frabjous-daffodil-daa433.netlify.app/
-  LIVE LINK Password - My-Drop-Site
+ # LIVE LINK Password - My-Drop-Site
+ # Brightloop Login: admin@brightloop.demo | Password: Brightloop!2026
+  
 
 # Brightloop — Subscription Operations
 
